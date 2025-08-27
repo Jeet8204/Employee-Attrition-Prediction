@@ -23,7 +23,8 @@ Before running the script, ensure you have a Python environment (3.6+) with the 
 You can install all necessary Python libraries using `pip`:
 
 ### 📂 Project Structure
-.
+---
 ├── employee_attrition.py   # The main Python script
 └── data.csv                # Your dataset with employee information (must contain an 'Attrition' column)
+---
 
